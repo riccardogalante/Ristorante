@@ -1,6 +1,8 @@
 Chef Riccardo 
 
 Antipasti
+insalata di mare
+tonno scottato
 
 
 
@@ -12,9 +14,11 @@ Spaghetti al pomodoro
 
 secondi
 Maialetto arrosto
+tagliata di manzo
 
 
 
 
 dessert
 Tiramisù
+Gelato
